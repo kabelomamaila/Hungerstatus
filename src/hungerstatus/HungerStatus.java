@@ -31,7 +31,7 @@ public class HungerStatus {
             System.out.println("Here's your " + favouriteMeal + "! Enjoy!");
            
             // Asking if they're still hungry
-            System.out.println(name + ", are you still hungry? (yes/no)");
+            System.out.println(name + ", are you still hungry? (yebo/no)");
             response = scanner.nextLine().toLowerCase();
         }
        
